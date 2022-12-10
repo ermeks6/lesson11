@@ -72,3 +72,5 @@ class Human:
 hum=Human('Алдияр',18)
 Robot3.desti(hum.age)
 
+
+
